@@ -16,10 +16,14 @@
   <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a><a href="https://lua.org" target="_blank"> <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/lua/lua.svg" alt="lua" width="40" height="40"/> </a>
   
 
-<img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/css/css_512x512.png" alt="lua" width="40" height="40"/>
+<img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/css/css_512x512.png" alt="css" width="40" height="40"/>
 
-<img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/html/html.png" alt="lua" width="40" height="40"/>
+<img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/html/html.png" alt="html" width="40" height="40"/>
 
-<img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/java/java.png" alt="lua" width="40" height="40"/>
+<img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/java/java.png" alt="java" width="40" height="40"/>
+<img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/javascript/javascript.png" alt="javascript" width="40" height="40"/>
+<img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/php/php.png" alt="php" width="40" height="40"/>
+<img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/swift/swift.png" alt="swift" width="40" height="40"/>
+<img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/typescript/typescript.png" alt="typescript" width="40" height="40"/>
   
 </p>
