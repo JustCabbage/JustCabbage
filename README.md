@@ -6,7 +6,7 @@ I'm a self-taught software engineer from the UK, specializing in **C++** with ex
 ### 🛠 Projects and Contributions
 - **[Intuos](https://github.com/JustCabbage/Intuos):** A custom HID device driver for the [Wacom Intuos S (CTL-4100)](https://estore.wacom.com/en-gb/wacom-intuos-small-black-ctl-4100k-s.html)
 - **[Tano](https://github.com/JustCabbage/TanoEngine):** An in-progress 2D game engine, written in C++23
-- **[HtmlParser](https://github.com/JustCabbage/HtmlParser):** A Html5 parser written entirely in C++ inspired by BeautifulSoup**
+- **[HtmlParser](https://github.com/JustCabbage/HtmlParser):** A Html5 parser written entirely in C++ inspired by BeautifulSoup
 - **[CHIP-8 Emulator](https://github.com/JustCabbage/CHIP-8-Emulator):** A C++20 project emulating the CHIP-8 architecture.
 - **[Reverse Engineering](https://justcabbage.github.io):** Sharing insights on software reversing techniques, and various niche topics.
 - **[And more 😊](https://github.com/JustCabbage?tab=repositories)**
